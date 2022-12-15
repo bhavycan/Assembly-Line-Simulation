@@ -7,3 +7,4 @@ The assembly line in your solution consists of a set of workstations each of whi
 
 ## Work Functionality: 
 ![image](https://user-images.githubusercontent.com/94931828/207809492-b30bbe87-4757-44f8-ae76-43dce53f1e34.png)
+
